@@ -21,8 +21,10 @@
 
 This project was developed using the following technologies:
 
-- HTML and CSS
-- JavaScript
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
 - Figma
 
 ## 💻 Project
